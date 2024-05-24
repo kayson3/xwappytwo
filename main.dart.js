@@ -90768,8 +90768,10 @@ a7=a7.gd5(a7)
 a7=a6+" "+A.i(J.w(a7.gN(a7).b,1))
 a6=a7}a6=A.aK(A.a([B.oQ,B.am,B.B2,B.w,A.b6(a6+" = 1 USDT",i,i,i,B.AO,i,i)],a5),B.m,B.t,B.j)
 a7=$.d
-if((a7==null?$.d=B.e:a7).v(0,i,s).CW.a.a.length===0)a7="0"
+if((a7==null?$.d=B.e:a7).v(0,i,s).CW.a.a.length===0){a7=$.d
+if((a7==null?$.d=B.e:a7).v(0,i,s).ay.gj(0)==null)a7="NGN0"
 else{a7=$.d
+a7=A.i((a7==null?$.d=B.e:a7).v(0,i,s).ay.gj(0))+"0"}}else{a7=$.d
 a7=(a7==null?$.d=B.e:a7).v(0,i,s).ay.gj(0)
 o=$.d
 if(a7==null){a7=A.x1(B.b.hu(A.a((o==null?$.d=B.e:o).v(0,i,s).CW.a.a.split(","),t.s)))
