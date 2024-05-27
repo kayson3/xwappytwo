@@ -90044,7 +90044,7 @@ r=(r==null?$.d=B.e:r).v(0,o,s).ax.gj(0)===B.lh?B.aw:B.d5
 r=A.c0(o,A.aF(o,B.Er,B.l,o,o,new A.aZ(r,o,o,A.bG(16.8),o,o,B.A),40,o,B.dP,o),B.C,!1,o,o,o,o,o,o,o,o,o,o,o,o,o,o,new A.a06(l),o,o,o)
 q=$.d
 q=(q==null?$.d=B.e:q).v(0,o,s).ax.gj(0)===B.lk?B.aw:B.d5
-g=A.a([B.r,j,B.fG,B.Xz,B.cu,B.Y4,B.bn,B.ma,B.J,A.aF(o,A.aP(A.a([e,r,A.c0(o,A.aF(o,B.Ew,B.l,o,o,new A.aZ(q,o,o,A.bG(16.8),o,o,B.A),40,o,B.dP,o),B.C,!1,o,o,o,o,o,o,o,o,o,o,o,o,o,o,new A.a07(l),o,o,o)],k),B.m,B.cq,B.j),B.l,o,o,new A.aZ(B.d5,o,o,f,o,o,B.A),40,o,o,g.a.a),B.J],k)
+g=A.a([B.r,j,B.fG,B.Xz,B.cu,B.Y3,B.bn,B.ma,B.J,A.aF(o,A.aP(A.a([e,r,A.c0(o,A.aF(o,B.Ew,B.l,o,o,new A.aZ(q,o,o,A.bG(16.8),o,o,B.A),40,o,B.dP,o),B.C,!1,o,o,o,o,o,o,o,o,o,o,o,o,o,o,new A.a07(l),o,o,o)],k),B.m,B.cq,B.j),B.l,o,o,new A.aZ(B.d5,o,o,f,o,o,B.A),40,o,o,g.a.a),B.J],k)
 j=$.d
 if((j==null?$.d=B.e:j).v(0,o,s).ax.gj(0)===B.e2){j=$.d
 j=A.i1((j==null?$.d=B.e:j).v(0,o,s).ay,o,"e.g John",o,o,o,o,o,o,new A.a08())
@@ -90056,7 +90056,7 @@ r=$.d
 r=A.i1((r==null?$.d=B.e:r).v(0,o,s).cx,o,"+2347045***334",o,B.fM,o,o,o,o,new A.a0a())
 q=A.ba(i,B.a1,h).w
 p=$.d
-B.b.K(g,A.a([B.XK,B.aY,B.XQ,B.r,j,B.J,B.YW,B.r,f,B.J,B.Bg,B.r,e,B.J,B.Yl,B.r,r,B.aK,A.dq(o,"Continue",q.a.a,o,o,(p==null?$.d=B.e:p).v(0,o,s).dy.gj(0),new A.a0b(l),o,o,15,o,o),B.J],k))}j=$.d
+B.b.K(g,A.a([B.XK,B.aY,B.XQ,B.r,j,B.J,B.YX,B.r,f,B.J,B.Bg,B.r,e,B.J,B.Yk,B.r,r,B.aK,A.dq(o,"Continue",q.a.a,o,o,(p==null?$.d=B.e:p).v(0,o,s).dy.gj(0),new A.a0b(l),o,o,15,o,o),B.J],k))}j=$.d
 if((j==null?$.d=B.e:j).v(0,o,s).ax.gj(0)===B.lh){j=A.aP(A.a([A.h5("assets/images/money-send.png",o,o,o),B.ad,B.ma],k),B.m,B.t,B.j)
 f=$.d
 if(J.c((f==null?$.d=B.e:f).v(0,o,s).id.gj(0),!0)){f=A.W(51,158,158,158)
@@ -90127,7 +90127,7 @@ f=e}else{f=$.d
 if(J.dR((f==null?$.d=B.e:f).v(0,o,s).fx.gb8(0)))f=B.ai
 else{f=$.d
 f=(f==null?$.d=B.e:f).v(0,o,s).fx
-f=A.aFz(J.j_(J.x(f.gj(0),f.$ti.c.a("countries")),new A.a0d(),t.l7).dE(0),10)}}B.b.K(g,A.a([B.J,B.XV,B.cu,j,B.aK,B.Z1,B.cu,f,B.aK,A.dq(o,"Get Started",A.ba(i,B.a1,h).w.a.a,o,o,!1,new A.a0e(l),o,o,15,o,o)],k))}return A.ts(A.nJ(A.bS(g,B.a7,B.j)),l.e)},
+f=A.aFz(J.j_(J.x(f.gj(0),f.$ti.c.a("countries")),new A.a0d(),t.l7).dE(0),10)}}B.b.K(g,A.a([B.J,B.XV,B.cu,j,B.aK,B.Z2,B.cu,f,B.aK,A.dq(o,"Get Started",A.ba(i,B.a1,h).w.a.a,o,o,!1,new A.a0e(l),o,o,15,o,o)],k))}return A.ts(A.nJ(A.bS(g,B.a7,B.j)),l.e)},
 $S:535}
 A.a04.prototype={
 $0(){return A.eo($.aJ(),"/login",null,t.z)},
@@ -90494,7 +90494,7 @@ s=A.l(m).h("ad.T")
 l=A.i1(l.v(0,p,s).CW,p,"Example@gmail.com",p,p,p,p,p,p,A.aHy())
 r=A.ba(this.b,B.a1,t.w).w
 q=$.d
-return new A.cz(B.cK,A.bS(A.a([B.r,n,B.J,B.w,B.YI,B.aY,B.Bg,B.r,l,B.aK,B.w,A.dq(p,"Continue",r.a.a,p,p,(q==null?$.d=B.e:q).v(0,p,s).dy.gj(0),new A.aax(m),p,p,15,p,p),B.w],o),B.a7,B.j),p)},
+return new A.cz(B.cK,A.bS(A.a([B.r,n,B.J,B.w,B.YJ,B.aY,B.Bg,B.r,l,B.aK,B.w,A.dq(p,"Continue",r.a.a,p,p,(q==null?$.d=B.e:q).v(0,p,s).dy.gj(0),new A.aax(m),p,p,15,p,p),B.w],o),B.a7,B.j),p)},
 $S:542}
 A.aax.prototype={
 $0(){var s,r,q,p=this.a
@@ -90530,7 +90530,7 @@ o.aU=new A.afs(k)
 o=A.qv(l,l,B.bz,l,l,!0,l,A.cR(A.a([A.cR(l,o,B.ek,"Resend")],t.VO),l,B.Uj,"Didn\u2019t get OTP? "),B.aZ,l,l,B.ak,B.aM)
 n=A.ba(this.b,B.a1,t.w).w
 m=$.d
-return A.aBz(new A.cz(B.cK,A.bS(A.a([B.r,q,B.J,B.w,B.Y7,B.bn,B.Yd,B.bZ,B.Ym,B.r,p,B.cu,o,B.aK,B.w,A.dq(l,"Continue",n.a.a,l,l,(m==null?$.d=B.e:m).v(0,l,s).dy.gj(0),new A.aft(k),l,l,15,l,l),B.w],r),B.a7,B.j),l),j)},
+return A.aBz(new A.cz(B.cK,A.bS(A.a([B.r,q,B.J,B.w,B.Y6,B.bn,B.Yc,B.bZ,B.Yl,B.r,p,B.cu,o,B.aK,B.w,A.dq(l,"Continue",n.a.a,l,l,(m==null?$.d=B.e:m).v(0,l,s).dy.gj(0),new A.aft(k),l,l,15,l,l),B.w],r),B.a7,B.j),l),j)},
 $S:195}
 A.afr.prototype={
 $1(a){if(a==null||a.length===0)return"Please enter otp"
@@ -90581,7 +90581,7 @@ return null},
 $S:31}
 A.vO.prototype={
 O(a){var s=null
-return A.iD(B.k,A.iC(!1,A.bS(A.a([B.r,new A.dK(B.bL,s,s,new A.cz(B.H_,A.c0(s,B.I2,B.C,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.an6(),s,s,s),s),s),B.w,A.h5("assets/images/kyc.png",B.CF,s,A.ba(a,B.a1,t.w).w.a.a),B.Yy,B.bZ,A.qv(s,s,B.bz,s,s,!0,s,B.SZ,B.aZ,s,s,B.ak,B.aM),B.w,A.dq(s,"Start KYC",300,s,s,!1,new A.an7(),s,s,15,s,s),B.w],t.p),B.m,B.j),!1,!0,!0))}}
+return A.iD(B.k,A.iC(!1,A.bS(A.a([B.r,new A.dK(B.bL,s,s,new A.cz(B.H_,A.c0(s,B.I2,B.C,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.an6(),s,s,s),s),s),B.w,A.h5("assets/images/kyc.png",B.CF,s,A.ba(a,B.a1,t.w).w.a.a),B.Yz,B.bZ,A.qv(s,s,B.bz,s,s,!0,s,B.SZ,B.aZ,s,s,B.ak,B.aM),B.w,A.dq(s,"Start KYC",300,s,s,!1,new A.an7(),s,s,15,s,s),B.w],t.p),B.m,B.j),!1,!0,!0))}}
 A.an6.prototype={
 $0(){return A.lk($.aJ(),"/home",t.z)},
 $S:0}
@@ -90609,17 +90609,17 @@ s=(s==null?$.d=B.e:s).v(0,i,r).ax.gj(0)===B.lj}else s=!0
 s=s?B.aw:B.d5
 s=A.a([B.r,a5,B.cu,a7,B.fH,A.aP(A.a([q,B.ad,p,B.ad,A.pe(A.c0(i,A.aF(i,B.Ex,B.l,i,i,new A.aZ(s,i,i,A.bG(22),i,i,B.A),50,i,B.Ha,i),B.C,!1,i,i,i,i,i,i,i,i,i,i,i,i,i,i,new A.a8C(a1),i,i,i),1),B.ad,A.c0(i,A.aF(i,B.Eq,B.l,i,i,B.n8,53,i,i,53),B.C,!1,i,i,i,i,i,i,i,i,i,i,i,i,i,i,new A.a8E(),i,i,i)],a4),B.m,B.t,B.j),B.J],a4)
 a5=$.d
-if((a5==null?$.d=B.e:a5).v(0,i,r).ax.gj(0)===B.ij){a5=A.aP(A.a([B.YS,A.dq(i,"Swap",63,i,30,!1,new A.a8F(a1),i,B.bh,15,i,i)],a4),B.m,B.cq,B.j)
+if((a5==null?$.d=B.e:a5).v(0,i,r).ax.gj(0)===B.ij){a5=A.aP(A.a([B.YT,A.dq(i,"Swap",63,i,30,!1,new A.a8F(a1),i,B.bh,15,i,i)],a4),B.m,B.cq,B.j)
 a7=A.bG(22)
-a7=A.pe(A.aF(i,A.bS(A.a([A.aP(A.a([A.aF(i,B.EE,B.l,i,i,B.cj,i,i,B.ki,i),B.oT],a4),B.m,B.cq,B.j),B.w,B.Z3,B.w,B.Bh,B.w,B.Y3,B.r],a4),B.a7,B.j),B.l,i,i,new A.aZ(B.k,i,i,a7,i,i,B.A),147,i,B.hp,i),1)
+a7=A.pe(A.aF(i,A.bS(A.a([A.aP(A.a([A.aF(i,B.EE,B.l,i,i,B.cj,i,i,B.ki,i),B.oT],a4),B.m,B.cq,B.j),B.w,B.Yw,B.w,B.Bh,B.w,B.Y2,B.r],a4),B.a7,B.j),B.l,i,i,new A.aZ(B.k,i,i,a7,i,i,B.A),147,i,B.hp,i),1)
 q=A.bG(22)
-q=A.aP(A.a([a7,B.ad,A.pe(A.aF(i,A.bS(A.a([A.aP(A.a([A.aF(i,B.Et,B.l,i,i,B.cj,i,i,B.ki,i),B.oT],a4),B.m,B.cq,B.j),B.w,B.XX,B.w,B.Bh,B.w,B.YV,B.r],a4),B.a7,B.j),B.l,i,i,new A.aZ(B.k,i,i,q,i,i,B.A),147,i,B.hp,i),1)],a4),B.m,B.t,B.j)
+q=A.aP(A.a([a7,B.ad,A.pe(A.aF(i,A.bS(A.a([A.aP(A.a([A.aF(i,B.Et,B.l,i,i,B.cj,i,i,B.ki,i),B.oT],a4),B.m,B.cq,B.j),B.w,B.Yq,B.w,B.Bh,B.w,B.YW,B.r],a4),B.a7,B.j),B.l,i,i,new A.aZ(B.k,i,i,q,i,i,B.A),147,i,B.hp,i),1)],a4),B.m,B.t,B.j)
 a7=A.bG(22)
-a7=A.pe(A.aF(i,A.bS(A.a([A.aP(A.a([A.aF(i,B.EA,B.l,i,i,B.cj,i,i,B.ki,i),B.lY,B.YU,B.w,B.Y6],a4),B.m,B.t,B.j),B.w,B.Pu,B.w,B.r],a4),B.a7,B.j),B.l,i,i,new A.aZ(B.k,i,i,a7,i,i,B.A),160,i,B.hp,i),1)
+a7=A.pe(A.aF(i,A.bS(A.a([A.aP(A.a([A.aF(i,B.EA,B.l,i,i,B.cj,i,i,B.ki,i),B.lY,B.YV,B.w,B.Y5],a4),B.m,B.t,B.j),B.w,B.Pu,B.w,B.r],a4),B.a7,B.j),B.l,i,i,new A.aZ(B.k,i,i,a7,i,i,B.A),160,i,B.hp,i),1)
 p=A.bG(22)
-p=A.aP(A.a([a7,B.ad,A.aF(i,A.bS(A.a([A.aF(i,B.Ey,B.l,i,i,B.cj,i,i,B.Hc,i),B.w,B.YN,B.w,B.XF,B.w,A.dq(i,"Cashout",50,i,30,!1,new A.a8G(),i,B.H7,10.2,i,10)],a4),B.a7,B.j),B.l,i,i,new A.aZ(B.k,i,i,p,i,i,B.A),160,i,B.hp,i)],a4),B.m,B.t,B.j)
+p=A.aP(A.a([a7,B.ad,A.aF(i,A.bS(A.a([A.aF(i,B.Ey,B.l,i,i,B.cj,i,i,B.Hc,i),B.w,B.YO,B.w,B.XF,B.w,A.dq(i,"Cashout",50,i,30,!1,new A.a8G(),i,B.H7,10.2,i,10)],a4),B.a7,B.j),B.l,i,i,new A.aZ(B.k,i,i,p,i,i,B.A),160,i,B.hp,i)],a4),B.m,B.t,B.j)
 a7=A.bG(16)
-B.b.K(s,A.a([B.r,a5,B.J,q,B.bZ,B.Yu,B.r,p,B.aY,B.YH,B.bn,A.aP(A.a([A.pe(A.aF(i,B.Yw,B.l,i,i,new A.aZ(i,i,A.hA(B.bT,1),a7,i,i,B.A),i,i,B.H1,i),1),A.aDd(B.HV,new A.a8H(),i)],a4),B.m,B.t,B.j)],a4))}a5=$.d
+B.b.K(s,A.a([B.r,a5,B.J,q,B.bZ,B.Yu,B.r,p,B.aY,B.YI,B.bn,A.aP(A.a([A.pe(A.aF(i,B.Yx,B.l,i,i,new A.aZ(i,i,A.hA(B.bT,1),a7,i,i,B.A),i,i,B.H1,i),1),A.aDd(B.HV,new A.a8H(),i)],a4),B.m,B.t,B.j)],a4))}a5=$.d
 if((a5==null?$.d=B.e:a5).v(0,i,r).ax.gj(0)===B.fq){a5=A.c0(i,A.aF(i,B.zr,B.l,i,i,new A.aZ(i,i,A.hA(B.k,2),A.bG(5),i,i,B.A),32,i,B.oh,86),B.C,!1,i,i,i,i,i,i,i,i,i,i,i,i,i,i,new A.a8I(a1),i,i,i)
 a7=t.w
 q=A.ba(a2,i,a7).w
@@ -90641,7 +90641,7 @@ l=J.j_(J.x(J.x(l.bq$,f),e),new A.a8J(),t.b7).dE(0)}q=A.bS(A.a([B.Yv,B.r,A.aF(i,A
 o=A.ba(a2,i,a7).w
 p=A.hA(B.bS,0.5)
 m=A.bG(8.1)
-l=A.aP(A.a([A.h5(d,i,i,23),B.ad,B.Ya],a4),B.m,B.t,B.j)
+l=A.aP(A.a([A.h5(d,i,i,23),B.ad,B.Y9],a4),B.m,B.t,B.j)
 n=$.d
 n=(n==null?$.d=B.e:n).v(0,i,r).ch.gj(0)
 k=a6.c.c.a
@@ -90702,7 +90702,7 @@ a7=t.w
 q=A.ba(a2,i,a7).w
 p=A.hA(B.bS,0.5)
 o=A.bG(8.1)
-n=A.aP(A.a([A.h5(d,i,i,23),B.ad,B.Yx],a4),B.m,B.t,B.j)
+n=A.aP(A.a([A.h5(d,i,i,23),B.ad,B.Yy],a4),B.m,B.t,B.j)
 m=$.d
 m=(m==null?$.d=B.e:m).v(0,i,r).ch.gj(0)
 l=a6.c.c.a
@@ -90711,7 +90711,7 @@ if(k==null)k=$.aI=new A.bO()
 k.bs(l.b5$)
 l=J.x(J.x(l.bq$,f),"coins")
 l=l==null?i:J.j_(l,new A.a8x(),t.b7).dE(0)
-q=A.bS(A.a([B.YD,B.r,A.aF(i,A.td(i,i,n,B.dV,!0,l,new A.a8y(a1),B.ai,m,a3),B.l,i,i,new A.aZ(B.b1,i,p,o,i,i,B.A),48,i,B.cJ,q.a.a/2.4)],a4),B.a7,B.j)
+q=A.bS(A.a([B.YE,B.r,A.aF(i,A.td(i,i,n,B.dV,!0,l,new A.a8y(a1),B.ai,m,a3),B.l,i,i,new A.aZ(B.b1,i,p,o,i,i,B.A),48,i,B.cJ,q.a.a/2.4)],a4),B.a7,B.j)
 a7=A.ba(a2,i,a7).w
 o=A.hA(B.bS,0.5)
 p=A.bG(8.1)
@@ -90727,7 +90727,7 @@ else{l=a6.c.c.a
 k=$.aI
 if(k==null)k=$.aI=new A.bO()
 k.bs(l.b5$)
-l=J.j_(J.x(J.x(l.bq$,f),e),new A.a8z(),t.b7).dE(0)}a7=A.aP(A.a([q,B.ct,A.bS(A.a([B.Y1,B.r,A.aF(i,A.td(i,i,m,B.vE,!0,l,new A.a8A(a1),B.ai,n,a3),B.l,i,i,new A.aZ(B.b1,i,o,p,i,i,B.A),i,i,B.cJ,a7.a.a/2.6)],a4),B.a7,B.j)],a4),B.m,B.t,B.j)
+l=J.j_(J.x(J.x(l.bq$,f),e),new A.a8z(),t.b7).dE(0)}a7=A.aP(A.a([q,B.ct,A.bS(A.a([B.Y0,B.r,A.aF(i,A.td(i,i,m,B.vE,!0,l,new A.a8A(a1),B.ai,n,a3),B.l,i,i,new A.aZ(B.b1,i,o,p,i,i,B.A),i,i,B.cJ,a7.a.a/2.6)],a4),B.a7,B.j)],a4),B.m,B.t,B.j)
 p=$.d
 a3=A.i1((p==null?$.d=B.e:p).v(0,i,r).CW,B.b1,"amount",A.a([A.aC4(0,"")],t.VS),B.fM,B.RC,8.21,i,i,new A.a8B())
 q=A.aF(i,A.dS(A.aF(i,i,B.l,B.cH,i,i,2,i,i,10),i,i),B.l,i,i,B.n6,18,i,i,18)
@@ -90950,7 +90950,7 @@ g=g==null?j:g.a
 g=A.aP(A.a([B.Yt,B.w,A.b9(g==null?"":g,j,j,j,B.aE,B.H,j)],h),B.m,B.t,B.j)
 e=i.ok
 e=e==null?j:e.b
-e=A.aP(A.a([B.YL,B.w,A.b9(e==null?"":e,j,j,j,B.aE,B.H,j)],h),B.m,B.t,B.j)
+e=A.aP(A.a([B.YM,B.w,A.b9(e==null?"":e,j,j,j,B.aE,B.H,j)],h),B.m,B.t,B.j)
 r=i.ok
 r=r==null?j:r.w
 r=A.aP(A.a([B.Ba,B.w,A.b9(r==null?"":r,j,j,j,B.aE,B.H,j)],h),B.m,B.t,B.j)
@@ -90959,13 +90959,13 @@ q=q==null?j:q.x
 q=A.aP(A.a([B.Bc,B.w,A.b9(q==null?"":q,j,j,j,B.aE,B.H,j)],h),B.m,B.t,B.j)
 p=i.ok
 p=p==null?j:p.c
-p=A.aP(A.a([B.Yq,B.w,A.b9(p==null?"":p,j,j,j,B.aE,B.H,j)],h),B.m,B.t,B.j)
+p=A.aP(A.a([B.Yp,B.w,A.b9(p==null?"":p,j,j,j,B.aE,B.H,j)],h),B.m,B.t,B.j)
 o=i.ok
 o=o==null?j:o.d
-o=A.aP(A.a([B.Yo,B.w,A.b9(o==null?"":o,j,j,j,B.aE,B.H,j)],h),B.m,B.t,B.j)
+o=A.aP(A.a([B.Yn,B.w,A.b9(o==null?"":o,j,j,j,B.aE,B.H,j)],h),B.m,B.t,B.j)
 n=i.ok
 n=n==null?j:n.e
-n=A.aP(A.a([B.YF,B.w,A.b9(n==null?"":n,j,j,j,B.aE,B.H,j)],h),B.m,B.t,B.j)
+n=A.aP(A.a([B.YG,B.w,A.b9(n==null?"":n,j,j,j,B.aE,B.H,j)],h),B.m,B.t,B.j)
 m=i.ok
 m=m==null?j:m.ax
 m=A.aP(A.a([B.Bf,B.w,A.b9(m==null?"":m,j,j,j,B.aE,B.H,j)],h),B.m,B.t,B.j)
@@ -90977,7 +90977,7 @@ k=k==null?j:k.f
 k=A.aP(A.a([B.XI,B.w,A.b9(k==null?"":k,j,j,j,B.aE,B.H,j)],h),B.m,B.t,B.j)
 i=i.ok
 i=i==null?j:i.r
-B.b.K(f,A.a([B.Al,B.Yj,B.r,B.Yz,B.aY,g,B.r,e,B.r,r,B.r,q,B.r,p,B.r,o,B.r,n,B.r,m,B.r,l,B.r,k,B.r,A.aP(A.a([B.XP,B.w,A.b9(i==null?"":i,j,j,j,B.aE,B.H,j)],h),B.m,B.t,B.j),B.aK,A.dq(j,"Close",240,j,j,!1,new A.ah4(),j,j,15,j,j)],h))}i=$.d
+B.b.K(f,A.a([B.Al,B.Yi,B.r,B.YA,B.aY,g,B.r,e,B.r,r,B.r,q,B.r,p,B.r,o,B.r,n,B.r,m,B.r,l,B.r,k,B.r,A.aP(A.a([B.XP,B.w,A.b9(i==null?"":i,j,j,j,B.aE,B.H,j)],h),B.m,B.t,B.j),B.aK,A.dq(j,"Close",240,j,j,!1,new A.ah4(),j,j,15,j,j)],h))}i=$.d
 if((i==null?$.d=B.e:i).v(0,j,s).ay.gj(0)===B.iC){i=this.b
 g=i.p1
 g=g==null?j:g.w
@@ -90987,22 +90987,22 @@ e=e==null?j:e.x
 e=A.aP(A.a([B.Bc,B.w,A.b9(e==null?"":e,j,j,j,B.aE,B.H,j)],h),B.m,B.t,B.j)
 s=i.p1
 s=s==null?j:s.y
-s=A.aP(A.a([B.XY,B.w,A.b9(s==null?"":s,j,j,j,B.aE,B.H,j)],h),B.m,B.t,B.j)
+s=A.aP(A.a([B.XX,B.w,A.b9(s==null?"":s,j,j,j,B.aE,B.H,j)],h),B.m,B.t,B.j)
 r=i.p1
 r=r==null?j:r.z
-r=A.aP(A.a([B.YB,B.w,A.b9(r==null?"":r,j,j,j,B.aE,B.H,j)],h),B.m,B.t,B.j)
+r=A.aP(A.a([B.YC,B.w,A.b9(r==null?"":r,j,j,j,B.aE,B.H,j)],h),B.m,B.t,B.j)
 q=i.p1
 q=q==null?j:q.Q
-q=A.aP(A.a([B.Yi,B.w,A.b9(q==null?"":q,j,j,j,B.aE,B.H,j)],h),B.m,B.t,B.j)
+q=A.aP(A.a([B.Yh,B.w,A.b9(q==null?"":q,j,j,j,B.aE,B.H,j)],h),B.m,B.t,B.j)
 p=i.p1
 p=p==null?j:p.as
-p=A.aP(A.a([B.YR,B.w,A.b9(p==null?"":p,j,j,j,B.aE,B.H,j)],h),B.m,B.t,B.j)
+p=A.aP(A.a([B.YS,B.w,A.b9(p==null?"":p,j,j,j,B.aE,B.H,j)],h),B.m,B.t,B.j)
 o=i.p1
 o=o==null?j:o.at
 o=A.aP(A.a([B.B6,B.w,A.b9(o==null?"":o,j,j,j,B.aE,B.H,j)],h),B.m,B.t,B.j)
 i=i.p1
 i=i==null?j:i.ax
-B.b.K(f,A.a([B.Al,B.Yk,B.r,B.Y8,B.aY,g,B.r,e,B.r,s,B.r,r,B.r,q,B.r,p,B.r,o,B.r,A.aP(A.a([B.Bf,B.w,A.b9(i==null?"":i,j,j,j,B.aE,B.H,j)],h),B.m,B.t,B.j),B.aK,A.dq(j,"Close",240,j,j,!1,new A.ah5(),j,j,15,j,j)],h))}f.push(B.J)
+B.b.K(f,A.a([B.Al,B.Yj,B.r,B.Y7,B.aY,g,B.r,e,B.r,s,B.r,r,B.r,q,B.r,p,B.r,o,B.r,A.aP(A.a([B.Bf,B.w,A.b9(i==null?"":i,j,j,j,B.aE,B.H,j)],h),B.m,B.t,B.j),B.aK,A.dq(j,"Close",240,j,j,!1,new A.ah5(),j,j,15,j,j)],h))}f.push(B.J)
 return A.nJ(A.bS(f,B.m,B.j))},
 $S:86}
 A.ah1.prototype={
@@ -91032,7 +91032,7 @@ q=A.bG(16.8)
 p=A.hA(B.bS,0.5)
 o=$.d
 n=t.p
-q=A.aP(A.a([B.Yf,B.w,A.aF(j,A.dS(A.td(j,B.n,B.XD,B.dV,!1,B.L0,new A.ahi(i),B.ai,(o==null?$.d=B.e:o).v(0,j,s).db.gj(0),t.N),j,j),B.l,j,j,new A.aZ(B.b1,j,p,q,j,j,B.A),39,j,j,103)],n),B.m,B.t,B.j)
+q=A.aP(A.a([B.Ye,B.w,A.aF(j,A.dS(A.td(j,B.n,B.XD,B.dV,!1,B.L0,new A.ahi(i),B.ai,(o==null?$.d=B.e:o).v(0,j,s).db.gj(0),t.N),j,j),B.l,j,j,new A.aZ(B.b1,j,p,q,j,j,B.A),39,j,j,103)],n),B.m,B.t,B.j)
 p=A.ba(this.b,B.a1,t.w).w
 o=A.bG(40)
 m=$.d
@@ -91272,7 +91272,7 @@ this.api()
 this.KC()}}
 A.vh.prototype={
 O(a){var s=null
-return A.iD(B.n,A.iC(!1,new A.cz(B.cK,A.nJ(A.bS(A.a([B.r,new A.dK(B.bL,s,s,A.c0(s,B.cM,B.C,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.al2(),s,s,s),s),B.J,B.Pv,B.aK,A.h5("assets/images/contactsupport.png",s,s,s),B.fG,B.Yr,B.aY,A.dq(s,"Live Chat",210,s,s,!1,s,s,s,16,s,s),B.r,B.aK,B.Yg,B.bZ,B.J],t.p),B.a7,B.j)),s),!1,!0,!0))}}
+return A.iD(B.n,A.iC(!1,new A.cz(B.cK,A.nJ(A.bS(A.a([B.r,new A.dK(B.bL,s,s,A.c0(s,B.cM,B.C,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.al2(),s,s,s),s),B.J,B.Pv,B.aK,A.h5("assets/images/contactsupport.png",s,s,s),B.fG,B.Yr,B.aY,A.dq(s,"Live Chat",210,s,s,!1,s,s,s,16,s,s),B.r,B.aK,B.Yf,B.bZ,B.J],t.p),B.a7,B.j)),s),!1,!0,!0))}}
 A.al2.prototype={
 $0(){return A.lk($.aJ(),"/home",t.z)},
 $S:0}
@@ -91382,7 +91382,7 @@ q=A.i1((o==null?$.d=B.e:o).v(0,l,p).dx,B.b1,"Confirm "+q+" Address",l,l,l,8.21,!
 p=A.ba(a,B.a1,t.w).w
 o=A.hA(B.bS,0.5)
 n=A.bG(8.1)
-return A.iD(B.n,A.iC(!1,new A.cz(B.cK,A.nJ(A.ts(A.bS(A.a([B.r,new A.dK(B.bL,l,l,i,l),B.J,s,B.aK,B.Ys,B.J,h,B.r,B.B7,B.J,B.r,q,B.r,B.B7,B.aY,B.XS,B.cu,A.aF(l,A.td(l,l,A.b9(J.x($.cd().to.c,k)==null?"MATIC":B.b.gT(J.bg(J.x($.cd().to.c,k)).split("-")),l,l,l,B.du,l,l),B.I3,!0,B.KB,new A.a52(),B.ai,l,t.X),B.l,l,l,new A.aZ(B.b1,l,o,n,l,l,B.A),48,l,B.cJ,p.a.a),B.bZ,B.r,A.aP(A.a([A.Q5(new A.dD(new A.a53(m),l),0.5),B.YY],r),B.m,B.t,B.j),A.aP(A.a([A.Q5(new A.dD(new A.a54(m),l),0.5),B.YJ],r),B.m,B.t,B.j),B.aK,new A.dD(new A.a55(m,a),l),B.J],r),B.a7,B.j),m.e)),l),!1,!0,!0))}}
+return A.iD(B.n,A.iC(!1,new A.cz(B.cK,A.nJ(A.ts(A.bS(A.a([B.r,new A.dK(B.bL,l,l,i,l),B.J,s,B.aK,B.Ys,B.J,h,B.r,B.B7,B.J,B.r,q,B.r,B.B7,B.aY,B.XS,B.cu,A.aF(l,A.td(l,l,A.b9(J.x($.cd().to.c,k)==null?"MATIC":B.b.gT(J.bg(J.x($.cd().to.c,k)).split("-")),l,l,l,B.du,l,l),B.I3,!0,B.KB,new A.a52(),B.ai,l,t.X),B.l,l,l,new A.aZ(B.b1,l,o,n,l,l,B.A),48,l,B.cJ,p.a.a),B.bZ,B.r,A.aP(A.a([A.Q5(new A.dD(new A.a53(m),l),0.5),B.YZ],r),B.m,B.t,B.j),A.aP(A.a([A.Q5(new A.dD(new A.a54(m),l),0.5),B.YK],r),B.m,B.t,B.j),B.aK,new A.dD(new A.a55(m,a),l),B.J],r),B.a7,B.j),m.e)),l),!1,!0,!0))}}
 A.a4Y.prototype={
 $0(){return A.lk($.aJ(),"/home",t.z)},
 $S:0}
@@ -91510,7 +91510,7 @@ else o.dm(0,new A.a5j())
 q.r.sj(0,J.x(o.gj(0),0))}catch(l){p=A.ab(l)
 $.bV().bL(0,"Error reading JSON file: "+A.i(p))}return A.J(null,r)}})
 return A.K($async$BQ,r)},
-O(a){var s,r,q,p,o,n,m=this,l=null,k=A.c0(l,B.cM,B.C,!1,l,l,l,l,l,l,l,l,l,l,l,l,l,l,new A.a59(),l,l,l),j=t.p,i=A.aP(A.a([A.aF(l,B.ns,B.l,l,l,B.ez,51,l,l,51),B.ct,B.YX],j),B.m,B.t,B.j),h=$.d
+O(a){var s,r,q,p,o,n,m=this,l=null,k=A.c0(l,B.cM,B.C,!1,l,l,l,l,l,l,l,l,l,l,l,l,l,l,new A.a59(),l,l,l),j=t.p,i=A.aP(A.a([A.aF(l,B.ns,B.l,l,l,B.ez,51,l,l,51),B.ct,B.YY],j),B.m,B.t,B.j),h=$.d
 if(h==null)h=$.d=B.e
 s=A.l(m).h("ad.T")
 h=A.i1(h.v(0,l,s).dy,B.b1,"Account Number",l,B.fM,l,8.21,l,A.c0(l,B.iV,B.C,!1,l,l,l,l,l,l,l,l,l,l,l,l,l,l,new A.a5a(m),l,l,l),new A.a5b())
@@ -91520,7 +91520,7 @@ q=A.ba(a,B.a1,t.w).w
 p=A.hA(B.bS,0.5)
 o=A.bG(8.1)
 n=$.d
-return A.iD(B.n,A.iC(!1,A.ts(new A.cz(B.cK,A.nJ(A.bS(A.a([B.r,new A.dK(B.bL,l,l,k,l),B.J,i,B.aK,B.Y0,B.fG,h,B.aY,r,B.aY,A.aF(l,A.dS(A.aCJ(B.oV,B.B9,B.dV,!0,B.pm,new A.a5d(m),new A.a5e(),(n==null?$.d=B.e:n).v(0,l,s).fx.gj(0),t.N),l,l),B.l,l,l,new A.aZ(B.b1,l,p,o,l,l,B.A),60,l,B.cJ,q.a.a),B.r,B.Bl,B.bZ,A.aP(A.a([A.Q5(new A.dD(new A.a5f(m),l),0.5),B.B5],j),B.m,B.t,B.j),B.aK,new A.dD(new A.a5g(m,a),l),B.J],j),B.a7,B.j)),l),m.e),!1,!0,!0))}}
+return A.iD(B.n,A.iC(!1,A.ts(new A.cz(B.cK,A.nJ(A.bS(A.a([B.r,new A.dK(B.bL,l,l,k,l),B.J,i,B.aK,B.Y_,B.fG,h,B.aY,r,B.aY,A.aF(l,A.dS(A.aCJ(B.oV,B.B9,B.dV,!0,B.pm,new A.a5d(m),new A.a5e(),(n==null?$.d=B.e:n).v(0,l,s).fx.gj(0),t.N),l,l),B.l,l,l,new A.aZ(B.b1,l,p,o,l,l,B.A),60,l,B.cJ,q.a.a),B.r,B.Bl,B.bZ,A.aP(A.a([A.Q5(new A.dD(new A.a5f(m),l),0.5),B.B5],j),B.m,B.t,B.j),B.aK,new A.dD(new A.a5g(m,a),l),B.J],j),B.a7,B.j)),l),m.e),!1,!0,!0))}}
 A.a5h.prototype={
 $1(a){return this.a.BQ()},
 $S:551}
@@ -91633,9 +91633,9 @@ j=A.ba(l,B.a1,k).w
 i=A.bG(12)
 h=A.qv(c,c,B.bz,c,c,!0,c,B.SX,B.aZ,c,c,B.ak,B.aM)
 g=$.d
-g=A.aP(A.a([B.Yn,B.w,A.b9(J.x(J.x((g==null?$.d=B.e:g).v(0,c,s).k2,"data"),"network"),c,c,c,B.ds,c,c),B.ad,B.ig],p),B.m,B.t,B.j)
+g=A.aP(A.a([B.Ym,B.w,A.b9(J.x(J.x((g==null?$.d=B.e:g).v(0,c,s).k2,"data"),"network"),c,c,c,B.ds,c,c),B.ad,B.ig],p),B.m,B.t,B.j)
 f=$.d
-f=A.aP(A.a([B.YZ,B.w,A.b9(J.x(J.x((f==null?$.d=B.e:f).v(0,c,s).k2,"data"),"pay_to_address"),c,c,c,B.iZ,c,c),B.ad,A.c0(c,B.hH,B.C,!1,c,c,c,c,c,c,c,c,c,c,c,c,c,c,new A.aaP(a0),c,c,c)],p),B.m,B.t,B.j)
+f=A.aP(A.a([B.Z_,B.w,A.b9(J.x(J.x((f==null?$.d=B.e:f).v(0,c,s).k2,"data"),"pay_to_address"),c,c,c,B.iZ,c,c),B.ad,A.c0(c,B.hH,B.C,!1,c,c,c,c,c,c,c,c,c,c,c,c,c,c,new A.aaP(a0),c,c,c)],p),B.m,B.t,B.j)
 e=J.x($.cd().to.c,"from")
 e=A.aP(A.a([B.XJ,B.w,A.b9(e==null?"USDC":e,c,c,c,B.ds,c,c),B.ad,B.ig],p),B.m,B.t,B.j)
 d=$.d
@@ -95388,31 +95388,31 @@ B.Ej=new A.a0W(0,"pixel")
 B.En=new A.xN(null,null,null,null,null,null,null)
 B.bW=new A.il(5)
 B.eh=new A.m(!0,B.n,null,null,null,null,16,B.bW,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.YA=new A.a2("Pending",null,B.eh,null,null,null,null,null,null)
-B.Eo=new A.cE(B.F,null,null,B.YA,null)
+B.YB=new A.a2("Pending",null,B.eh,null,null,null,null,null,null)
+B.Eo=new A.cE(B.F,null,null,B.YB,null)
 B.AO=new A.m(!0,B.n,null,null,null,null,14,B.bW,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Z_=new A.a2("Fiat Receipt",null,B.AO,null,null,null,null,null,null)
-B.Ep=new A.cE(B.F,null,null,B.Z_,null)
+B.Z0=new A.a2("Fiat Receipt",null,B.AO,null,null,null,null,null,null)
+B.Ep=new A.cE(B.F,null,null,B.Z0,null)
 B.HR=new A.ea(61666,"MaterialIcons","flutter_vector_icons",!1)
 B.I_=new A.dz(B.HR,null,null,null)
 B.Eq=new A.cE(B.F,null,null,B.I_,null)
 B.m4=new A.m(!0,B.n,null,null,null,null,12,B.bW,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.XC=new A.a2("Our Stats",null,B.m4,null,null,null,null,null,null)
 B.Er=new A.cE(B.F,null,null,B.XC,null)
-B.Y2=new A.a2("02",null,B.eh,null,null,null,null,null,null)
-B.ns=new A.cE(B.F,null,null,B.Y2,null)
-B.YT=new A.a2("03",null,B.eh,null,null,null,null,null,null)
-B.Es=new A.cE(B.F,null,null,B.YT,null)
+B.Y1=new A.a2("02",null,B.eh,null,null,null,null,null,null)
+B.ns=new A.cE(B.F,null,null,B.Y1,null)
+B.YU=new A.a2("03",null,B.eh,null,null,null,null,null,null)
+B.Es=new A.cE(B.F,null,null,B.YU,null)
 B.HH=new A.ea(57495,"MaterialIcons",null,!1)
 B.k=new A.q(4294967295)
 B.I6=new A.dz(B.HH,20,B.k,null)
 B.Et=new A.cE(B.F,null,null,B.I6,null)
 B.XR=new A.a2("01",null,B.eh,null,null,null,null,null,null)
 B.nt=new A.cE(B.F,null,null,B.XR,null)
-B.YO=new A.a2("Get Started",null,B.m4,null,null,null,null,null,null)
-B.Ev=new A.cE(B.F,null,null,B.YO,null)
-B.XZ=new A.a2("Currencies",null,B.m4,null,null,null,null,null,null)
-B.Ew=new A.cE(B.F,null,null,B.XZ,null)
+B.YP=new A.a2("Get Started",null,B.m4,null,null,null,null,null,null)
+B.Ev=new A.cE(B.F,null,null,B.YP,null)
+B.XY=new A.a2("Currencies",null,B.m4,null,null,null,null,null,null)
+B.Ew=new A.cE(B.F,null,null,B.XY,null)
 B.Tg=new A.m(!0,B.n,null,null,null,null,13,B.bW,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.XO=new A.a2("Buy & Sell Crypto",null,B.Tg,null,null,null,null,null,null)
 B.Ex=new A.cE(B.F,null,null,B.XO,null)
@@ -95422,8 +95422,8 @@ B.Ey=new A.cE(B.F,null,null,B.HW,null)
 B.HM=new A.ea(58502,"MaterialIcons",null,!1)
 B.HZ=new A.dz(B.HM,20,B.k,null)
 B.EA=new A.cE(B.F,null,null,B.HZ,null)
-B.YP=new A.a2("Completed",null,B.eh,null,null,null,null,null,null)
-B.EB=new A.cE(B.F,null,null,B.YP,null)
+B.YQ=new A.a2("Completed",null,B.eh,null,null,null,null,null,null)
+B.EB=new A.cE(B.F,null,null,B.YQ,null)
 B.HK=new A.ea(58136,"MaterialIcons",null,!1)
 B.HY=new A.dz(B.HK,null,null,null)
 B.EC=new A.cE(B.F,null,null,B.HY,null)
@@ -95432,8 +95432,8 @@ B.ED=new A.cE(B.F,null,null,B.XG,null)
 B.HI=new A.ea(57504,"MaterialIcons",null,!1)
 B.I1=new A.dz(B.HI,20,B.k,null)
 B.EE=new A.cE(B.F,null,null,B.I1,null)
-B.Y9=new A.a2("Initiated",null,B.eh,null,null,null,null,null,null)
-B.EF=new A.cE(B.F,null,null,B.Y9,null)
+B.Y8=new A.a2("Initiated",null,B.eh,null,null,null,null,null,null)
+B.EF=new A.cE(B.F,null,null,B.Y8,null)
 B.HQ=new A.ea(62084,"Ionicons","flutter_vector_icons",!1)
 B.I0=new A.dz(B.HQ,null,null,null)
 B.EH=new A.cE(B.F,null,null,B.I0,null)
@@ -95752,8 +95752,8 @@ B.hB=new A.a5D(0,"tight")
 B.Fa=new A.q(4281413677)
 B.q=new A.il(3)
 B.AM=new A.m(!0,B.Fa,null,null,null,null,12,B.q,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Yh=new A.a2("1. Please ensure you transfer the exact amount to avoid failed transaction. \n\n2. Do not save this address . It is a one-time address for this payment.",null,B.AM,null,null,null,null,null,null)
-B.Hm=new A.tn(1,B.hB,B.Yh,null)
+B.Yg=new A.a2("1. Please ensure you transfer the exact amount to avoid failed transaction. \n\n2. Do not save this address . It is a one-time address for this payment.",null,B.AM,null,null,null,null,null,null)
+B.Hm=new A.tn(1,B.hB,B.Yg,null)
 B.Xy=new A.a2("1. Please ensure you transfer the exact amount to avoid failed transaction. \n\n2. Do not save this account number. It is a one-time account number for this payment.",null,B.AM,null,null,null,null,null,null)
 B.Hn=new A.tn(1,B.hB,B.Xy,null)
 B.Ho=new A.yU(null,null,null,null,null,null,null,null,null,null,null,null,null)
@@ -96031,10 +96031,10 @@ B.pb=A.a(s([0,0,65490,12287,65535,34815,65534,18431]),t.t)
 B.K5=A.a(s(["pointerdown","pointermove","pointerleave","pointerup","pointercancel","touchstart","touchend","touchmove","touchcancel","mousedown","mousemove","mouseleave","mouseup","keyup","keydown"]),t.s)
 B.Fl=new A.q(4284637794)
 B.AT=new A.m(!0,B.Fl,null,null,null,null,12.3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.YM=new A.a2("Password Reset",null,B.AT,null,null,null,null,null,null)
-B.GG=new A.eV("PR",B.YM,B.ch,null,t.b7)
-B.Y_=new A.a2("Logout",null,B.AT,null,null,null,null,null,null)
-B.GE=new A.eV("Logout",B.Y_,B.ch,null,t.b7)
+B.YN=new A.a2("Password Reset",null,B.AT,null,null,null,null,null,null)
+B.GG=new A.eV("PR",B.YN,B.ch,null,t.b7)
+B.XZ=new A.a2("Logout",null,B.AT,null,null,null,null,null,null)
+B.GE=new A.eV("Logout",B.XZ,B.ch,null,t.b7)
 B.Kb=A.a(s([B.GG,B.GE]),t.FG)
 B.Sf=new A.Cx(0,"left")
 B.Sg=new A.Cx(1,"right")
@@ -96180,10 +96180,10 @@ B.D9=new A.bp(0.2,B.M,B.nC,B.f,11)
 B.L_=A.a(s([B.D9]),t.E)
 B.kN=A.a(s([0,0,65498,45055,65535,34815,65534,18431]),t.t)
 B.m8=new A.m(!0,B.jV,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.YG=new A.a2("Sell",null,B.m8,null,null,null,null,null,null)
-B.GF=new A.eV("Sell",B.YG,B.ch,null,t.b7)
-B.Z0=new A.a2("Buy",null,B.m8,null,null,null,null,null,null)
-B.GC=new A.eV("Buy",B.Z0,B.ch,null,t.b7)
+B.YH=new A.a2("Sell",null,B.m8,null,null,null,null,null,null)
+B.GF=new A.eV("Sell",B.YH,B.ch,null,t.b7)
+B.Z1=new A.a2("Buy",null,B.m8,null,null,null,null,null,null)
+B.GC=new A.eV("Buy",B.Z1,B.ch,null,t.b7)
 B.L0=A.a(s([B.GF,B.GC]),t.FG)
 B.pn=A.a(s(["bind","if","ref","repeat","syntax"]),t.s)
 B.L6=new A.lu("und",null)
@@ -97320,39 +97320,39 @@ B.Xx=new A.a2("Withdraw\nBonus",null,B.dw,null,null,null,null,null,null)
 B.L1=A.a(s([B.Xx]),t.p)
 B.Ps=new A.kn(B.av,B.t,B.j,B.m,null,B.bp,null,B.L1,null)
 B.ei=new A.m(!0,B.cH,null,null,null,null,14,B.q,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Yb=new A.a2("Referral Balance",null,B.ei,null,null,null,null,null,null)
+B.Ya=new A.a2("Referral Balance",null,B.ei,null,null,null,null,null,null)
 B.Z4=new A.a2("NGN12,000",null,B.ei,null,null,null,null,null,null)
-B.K4=A.a(s([B.Yb,B.Z4]),t.p)
+B.K4=A.a(s([B.Ya,B.Z4]),t.p)
 B.Pt=new A.kn(B.av,B.cq,B.j,B.m,null,B.bp,null,B.K4,null)
 B.jS=new A.q(4284307287)
 B.AN=new A.m(!0,B.jS,null,null,null,null,10,B.q,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.XU=new A.a2("Paid",null,B.AN,null,null,null,null,null,null)
 B.w=new A.Pc(null)
-B.YQ=new A.a2("Confirmation",null,B.AN,null,null,null,null,null,null)
-B.J3=A.a(s([B.XU,B.w,B.YQ]),t.p)
+B.YR=new A.a2("Confirmation",null,B.AN,null,null,null,null,null,null)
+B.J3=A.a(s([B.XU,B.w,B.YR]),t.p)
 B.zq=new A.kn(B.av,B.t,B.j,B.m,null,B.bp,null,B.J3,null)
 B.fO=new A.m(!0,B.n,null,null,null,null,13,B.q,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.YE=new A.a2("Total txns",null,B.fO,null,null,null,null,null,null)
+B.YF=new A.a2("Total txns",null,B.fO,null,null,null,null,null,null)
 B.Ak=new A.cQ(null,3,null,null)
 B.j0=new A.m(!0,B.n,null,null,null,null,17,B.a8,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.XE=new A.a2("$23,430.34",null,B.j0,null,null,null,null,null,null)
-B.L4=A.a(s([B.YE,B.Ak,B.XE]),t.p)
+B.L4=A.a(s([B.YF,B.Ak,B.XE]),t.p)
 B.FT=new A.jX(B.b0,B.t,B.j,B.a7,null,B.bp,null,B.L4,null)
-B.Ye=new A.a2("Active",null,B.fO,null,null,null,null,null,null)
-B.Y5=new A.a2("183",null,B.j0,null,null,null,null,null,null)
-B.L3=A.a(s([B.Ye,B.Ak,B.Y5]),t.p)
+B.Yd=new A.a2("Active",null,B.fO,null,null,null,null,null,null)
+B.Y4=new A.a2("183",null,B.j0,null,null,null,null,null,null)
+B.L3=A.a(s([B.Yd,B.Ak,B.Y4]),t.p)
 B.FU=new A.jX(B.b0,B.t,B.j,B.a7,null,B.bp,null,B.L3,null)
 B.ad=new A.cQ(10,null,null,null)
 B.K6=A.a(s([B.FT,B.w,B.FU,B.ad]),t.p)
 B.Pu=new A.kn(B.av,B.t,B.j,B.m,null,B.bp,null,B.K6,null)
-B.Yp=new A.a2("Contact\nSupport",null,B.dw,null,null,null,null,null,null)
-B.K3=A.a(s([B.Yp]),t.p)
+B.Yo=new A.a2("Contact\nSupport",null,B.dw,null,null,null,null,null,null)
+B.K3=A.a(s([B.Yo]),t.p)
 B.Pv=new A.kn(B.av,B.t,B.j,B.m,null,B.bp,null,B.K3,null)
 B.HP=new A.ea(59604,"MaterialIcons","flutter_vector_icons",!1)
 B.I5=new A.dz(B.HP,null,B.k,null)
 B.Uk=new A.m(!0,B.k,null,null,null,null,14,B.X,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Z2=new A.a2("Flip",null,B.Uk,null,null,null,null,null,null)
-B.Kc=A.a(s([B.I5,B.w,B.Z2]),t.p)
+B.Z3=new A.a2("Flip",null,B.Uk,null,null,null,null,null,null)
+B.Kc=A.a(s([B.I5,B.w,B.Z3]),t.p)
 B.zr=new A.kn(B.av,B.t,B.j,B.m,null,B.bp,null,B.Kc,null)
 B.Pw=new A.BF(1333)
 B.lz=new A.BF(2222)
@@ -97569,17 +97569,17 @@ B.aV=new A.cQ(0,0,null,null)
 B.ct=new A.cQ(20,null,null,null)
 B.iU=new A.cQ(25,null,null,null)
 B.Aj=new A.cQ(40,null,null,null)
-B.YK=new A.a2("NGN",null,B.du,null,null,null,null,null,null)
-B.Eu=new A.cE(B.F,null,null,B.YK,null)
+B.YL=new A.a2("NGN",null,B.du,null,null,null,null,null,null)
+B.Eu=new A.cE(B.F,null,null,B.YL,null)
 B.RA=new A.cQ(55,50,B.Eu,null)
 B.RB=new A.cQ(50,null,null,null)
 B.lY=new A.cQ(5,null,null,null)
 B.ej=new A.m(!0,B.jV,null,null,null,null,16,B.bW,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.YC=new A.a2("Paste  ",null,B.ej,null,null,null,null,null,null)
-B.Ez=new A.cE(B.F,null,null,B.YC,null)
+B.YD=new A.a2("Paste  ",null,B.ej,null,null,null,null,null,null)
+B.Ez=new A.cE(B.F,null,null,B.YD,null)
 B.iV=new A.cQ(50,50,B.Ez,null)
-B.Yc=new A.a2("$",null,B.du,null,null,null,null,null,null)
-B.EG=new A.cE(B.F,null,null,B.Yc,null)
+B.Yb=new A.a2("$",null,B.du,null,null,null,null,null,null)
+B.EG=new A.cE(B.F,null,null,B.Yb,null)
 B.RC=new A.cQ(40,50,B.EG,null)
 B.r=new A.cQ(null,10,null,null)
 B.dr=new A.cQ(null,12,null,null)
@@ -98057,43 +98057,43 @@ B.XT=new A.a2("Name",null,B.j_,null,null,null,null,null,null)
 B.Ba=new A.a2("Payment Reference",null,B.bc,B.H,null,null,null,null,null)
 B.XV=new A.a2("Supported Stable coin",null,B.j1,null,null,null,null,null,null)
 B.XW=new A.a2("Acc. Number",null,B.j_,null,null,null,null,null,null)
-B.XX=new A.a2("Off-ramp",null,B.fO,null,null,null,null,null,null)
-B.XY=new A.a2("Sender\u2019s Bank",null,B.bc,B.H,null,null,null,null,null)
-B.Y0=new A.a2("We have confirmed your crypto deposit. Enter your bank account details",null,B.ei,null,null,null,null,null,null)
-B.Y1=new A.a2("To Fiat",null,B.dt,null,null,null,null,null,null)
+B.XX=new A.a2("Sender\u2019s Bank",null,B.bc,B.H,null,null,null,null,null)
+B.Y_=new A.a2("We have confirmed your crypto deposit. Enter your bank account details",null,B.ei,null,null,null,null,null,null)
+B.Y0=new A.a2("To Fiat",null,B.dt,null,null,null,null,null,null)
 B.AQ=new A.m(!0,B.n,null,null,null,null,10,B.q,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Y3=new A.a2("203 txns",null,B.AQ,null,null,null,null,null,null)
+B.Y2=new A.a2("203 txns",null,B.AQ,null,null,null,null,null,null)
 B.Um=new A.m(!0,B.k,null,null,null,null,21,B.X,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Y4=new A.a2("Real-time On-ramp &\nOff-ramp",null,B.Um,null,null,null,null,null,null)
+B.Y3=new A.a2("Real-time On-ramp &\nOff-ramp",null,B.Um,null,null,null,null,null,null)
 B.Ti=new A.m(!0,B.n,null,null,null,null,14,B.a8,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Y6=new A.a2("2,000",null,B.Ti,null,null,null,null,null,null)
-B.Y7=new A.a2("Enter OTP",null,B.dv,null,null,null,null,null,null)
+B.Y5=new A.a2("2,000",null,B.Ti,null,null,null,null,null,null)
+B.Y6=new A.a2("Enter OTP",null,B.dv,null,null,null,null,null,null)
 B.AW=new A.m(!0,B.k,null,null,null,null,16,B.q,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Y8=new A.a2("Your fiat transfer was received and\nimmediately processed to USDC",null,B.AW,B.H,null,null,null,null,null)
+B.Y7=new A.a2("Your fiat transfer was received and\nimmediately processed to USDC",null,B.AW,B.H,null,null,null,null,null)
 B.Bb=new A.a2("Make\nPayment",null,B.dw,null,null,null,null,null,null)
 B.Bc=new A.a2("Order Number",null,B.bc,B.H,null,null,null,null,null)
 B.Fq=new A.q(4286742142)
 B.TQ=new A.m(!0,B.Fq,null,null,null,null,10,B.q,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Bd=new A.a2("We are checking your payment",null,B.TQ,null,null,null,null,null,null)
 B.Be=new A.a2("Txn Counts",null,B.j1,null,null,null,null,null,null)
-B.Ya=new A.a2("USDC - MATIC",null,B.du,null,null,B.cg,null,null,null)
+B.Y9=new A.a2("USDC - MATIC",null,B.du,null,null,B.cg,null,null,null)
 B.Bf=new A.a2("Rate",null,B.bc,B.H,null,null,null,null,null)
-B.Yd=new A.a2("Check your email for OTP",null,B.AU,null,null,null,null,null,null)
+B.Yc=new A.a2("Check your email for OTP",null,B.AU,null,null,null,null,null,null)
 B.Bg=new A.a2("Enter Email",null,B.ek,null,null,null,null,null,null)
 B.Bh=new A.a2("$2,000.32",null,B.j0,null,null,null,null,null,null)
-B.Yf=new A.a2("Transactions\nRecords",null,B.dw,null,null,null,null,null,null)
-B.Yg=new A.a2("Note: Live Chat will take you to our Telegram Support Channel.",null,B.m6,null,null,null,null,null,null)
-B.Yi=new A.a2("Sender Name",null,B.bc,B.H,null,null,null,null,null)
+B.Ye=new A.a2("Transactions\nRecords",null,B.dw,null,null,null,null,null,null)
+B.Yf=new A.a2("Note: Live Chat will take you to our Telegram Support Channel.",null,B.m6,null,null,null,null,null,null)
+B.Yh=new A.a2("Sender Name",null,B.bc,B.H,null,null,null,null,null)
 B.AX=new A.m(!0,B.k,null,null,null,null,24,B.a8,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Yj=new A.a2("Crypto Swap on the\nway",null,B.AX,B.H,null,null,null,null,null)
-B.Yk=new A.a2("Fiat transfer received",null,B.AX,B.H,null,null,null,null,null)
-B.Yl=new A.a2("Enter Phone",null,B.ek,null,null,null,null,null,null)
+B.Yi=new A.a2("Crypto Swap on the\nway",null,B.AX,B.H,null,null,null,null,null)
+B.Yj=new A.a2("Fiat transfer received",null,B.AX,B.H,null,null,null,null,null)
+B.Yk=new A.a2("Enter Phone",null,B.ek,null,null,null,null,null,null)
 B.T1=new A.m(!0,B.jI,null,null,null,null,15,B.a8,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Bi=new A.a2("Pay in the Account below",null,B.T1,null,null,null,null,null,null)
-B.Ym=new A.a2("Enter OTP",null,B.ek,null,null,null,null,null,null)
-B.Yn=new A.a2("Network",null,B.m7,null,null,null,null,null,null)
-B.Yo=new A.a2("From ",null,B.bc,B.H,null,null,null,null,null)
-B.Yq=new A.a2("Payment Provider",null,B.bc,B.H,null,null,null,null,null)
+B.Yl=new A.a2("Enter OTP",null,B.ek,null,null,null,null,null,null)
+B.Ym=new A.a2("Network",null,B.m7,null,null,null,null,null,null)
+B.Yn=new A.a2("From ",null,B.bc,B.H,null,null,null,null,null)
+B.Yp=new A.a2("Payment Provider",null,B.bc,B.H,null,null,null,null,null)
+B.Yq=new A.a2("Sell",null,B.fO,null,null,null,null,null,null)
 B.Yr=new A.a2("Need help with your transactions, KYC?\nContact our 247 Customer Support Team.",null,B.ei,null,null,null,null,null,null)
 B.Ys=new A.a2("We have confirmed your payment . Enter your\ncrypto address",null,B.ei,null,null,null,null,null,null)
 B.Bj=new A.a2("Our Fee",null,B.AR,null,null,null,null,null,null)
@@ -98104,40 +98104,40 @@ B.Yu=new A.a2("Referral",null,B.B_,null,null,null,null,null,null)
 B.Yv=new A.a2("From Fiat",null,B.dt,null,null,null,null,null,null)
 B.U_=new A.m(!0,B.eJ,null,null,null,null,15,B.a8,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Bl=new A.a2("Charles Avis",null,B.U_,null,null,null,null,null,null)
+B.Yw=new A.a2("Buy",null,B.fO,null,null,null,null,null,null)
 B.VL=new A.m(!0,B.bT,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Yw=new A.a2("https://bullafric.xwapy.com/username",null,B.VL,null,null,null,null,null,null)
-B.Yx=new A.a2("USDC - MATIC",null,B.du,null,null,null,null,null,null)
+B.Yx=new A.a2("https://bullafric.xwapy.com/username",null,B.VL,null,null,null,null,null,null)
+B.Yy=new A.a2("USDC - MATIC",null,B.du,null,null,null,null,null,null)
 B.F9=new A.q(4281412395)
 B.Va=new A.m(!0,B.F9,null,null,null,null,30,B.a8,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Yy=new A.a2("KYC\nRequired!",null,B.Va,B.H,null,null,null,null,null)
-B.Yz=new A.a2("Your crypto swap to the below address is on it\u2019s way. Check your wallet for confirmation.",null,B.AW,B.H,null,null,null,null,null)
-B.YB=new A.a2("Amount Paid ",null,B.bc,B.H,null,null,null,null,null)
-B.YD=new A.a2("From stablecoin",null,B.dt,null,null,null,null,null,null)
-B.YF=new A.a2("To Currency",null,B.bc,B.H,null,null,null,null,null)
+B.Yz=new A.a2("KYC\nRequired!",null,B.Va,B.H,null,null,null,null,null)
+B.YA=new A.a2("Your crypto swap to the below address is on it\u2019s way. Check your wallet for confirmation.",null,B.AW,B.H,null,null,null,null,null)
+B.YC=new A.a2("Amount Paid ",null,B.bc,B.H,null,null,null,null,null)
+B.YE=new A.a2("From stablecoin",null,B.dt,null,null,null,null,null,null)
+B.YG=new A.a2("To Currency",null,B.bc,B.H,null,null,null,null,null)
 B.Ue=new A.m(!0,B.bT,null,null,null,null,13.24,B.a8,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.YH=new A.a2("Referral Link",null,B.Ue,null,null,null,null,null,null)
-B.YI=new A.a2("Welcome\nback!",null,B.dv,null,null,null,null,null,null)
+B.YI=new A.a2("Referral Link",null,B.Ue,null,null,null,null,null,null)
+B.YJ=new A.a2("Welcome\nback!",null,B.dv,null,null,null,null,null,null)
 B.X9=new A.m(!0,B.k,null,null,null,null,14.5,B.X,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Bm=new A.a2("Contact\nSupport",null,B.X9,null,null,null,null,null,null)
-B.YJ=new A.a2("I accept Terms & Conditions",null,B.fP,null,null,null,null,null,null)
+B.YK=new A.a2("I accept Terms & Conditions",null,B.fP,null,null,null,null,null,null)
 B.Bn=new A.a2("NGN",null,B.ej,null,null,null,null,null,null)
-B.YL=new A.a2("Crypto Network",null,B.bc,B.H,null,null,null,null,null)
-B.YN=new A.a2("Referral\nBalance",null,B.fO,null,null,null,null,null,null)
-B.YR=new A.a2("Account number",null,B.bc,B.H,null,null,null,null,null)
-B.YS=new A.a2("Overview",null,B.B_,null,null,null,null,null,null)
-B.YU=new A.a2("Referral",null,B.AP,null,null,null,null,null,null)
-B.YV=new A.a2("2.403 txns",null,B.AQ,null,null,null,null,null,null)
+B.YM=new A.a2("Crypto Network",null,B.bc,B.H,null,null,null,null,null)
+B.YO=new A.a2("Referral\nBalance",null,B.fO,null,null,null,null,null,null)
+B.YS=new A.a2("Account number",null,B.bc,B.H,null,null,null,null,null)
+B.YT=new A.a2("Overview",null,B.B_,null,null,null,null,null,null)
+B.YV=new A.a2("Referral",null,B.AP,null,null,null,null,null,null)
+B.YW=new A.a2("2.403 txns",null,B.AQ,null,null,null,null,null,null)
 B.Tj=new A.m(!0,B.n,null,null,null,null,11,B.q,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Bo=new A.a2("We have Confirmed your transfer of N50,000. You can now proceed ",null,B.Tj,B.H,null,null,null,null,null)
-B.YW=new A.a2("Last name",null,B.ek,null,null,null,null,null,null)
-B.YX=new A.a2("Enter Bank\ndetails",null,B.dw,null,null,null,null,null,null)
-B.YY=new A.a2("I have confirm crypto address is correct",null,B.fP,null,null,null,null,null,null)
-B.YZ=new A.a2("Crypto Address",null,B.m7,null,null,null,null,null,null)
-B.Z1=new A.a2("Supported Countries",null,B.j1,null,null,null,null,null,null)
+B.YX=new A.a2("Last name",null,B.ek,null,null,null,null,null,null)
+B.YY=new A.a2("Enter Bank\ndetails",null,B.dw,null,null,null,null,null,null)
+B.YZ=new A.a2("I have confirm crypto address is correct",null,B.fP,null,null,null,null,null,null)
+B.Z_=new A.a2("Crypto Address",null,B.m7,null,null,null,null,null,null)
+B.Z2=new A.a2("Supported Countries",null,B.j1,null,null,null,null,null,null)
 B.FJ=new A.q(4294587143)
 B.WS=new A.m(!0,B.FJ,null,null,null,null,11,B.q,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Bp=new A.a2("Unable to Confirm your payment, click retry to check if your payment bas ben received",null,B.WS,B.H,null,null,null,null,null)
-B.Z3=new A.a2("On-ramp",null,B.fO,null,null,null,null,null,null)
 B.Bq=new A.PV(0,"system")
 B.Z5=new A.PV(2,"dark")
 B.NW=new A.k(0.05,0)
