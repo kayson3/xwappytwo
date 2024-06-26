@@ -4,7 +4,7 @@
 * @returns {Promise} A Promise that resolves after the delay.
 */
 function addDelay() {
-    return new Promise((resolve) => setTimeout(resolve, 500));
+    return new Promise((resolve) => setTimeout(resolve, 1000));
 }
 
 // Get the progress and progressBar elements from the DOM
@@ -22,7 +22,7 @@ Read more: https://developer.mozilla.org/en-US/docs/Web/Security/Secure_Contexts
 //# sourceMappingURL=flutter.js.map
 
 
-progress.style.width = `33%`;
+progress.style.width = `23%`;
 
 if (!window._flutter) {
   window._flutter = {};
@@ -40,10 +40,10 @@ _flutter.loader.load({
         const appRunner = await engineInitializer.initializeEngine();
 
         // Set progress to 100% before adding a delay.
-        progress.style.width = `98%`;
+        progress.style.width = `90%`;
 
         // Add a delay before running the app to create a smooth crossfade effect.
-        // await addDelay();
+        await addDelay();
 
         // Hide the progress bar by reducing its opacity.
         // This will create the fade out effect by animating the opacity.
