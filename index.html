@@ -13,7 +13,7 @@
     * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
 
     This is a placeholder for base href that will be replaced by the value of
-    the `--base-href` argument provided to `flutter build`.  
+    the `--base-href` argument provided to `flutter build`.
   -->
   <base href="/">
   <!---->
@@ -32,7 +32,7 @@
   <link rel="icon" type="image/png" id="dynamicFavicon" href="" />
 
   <title>Welcome</title>
-  <link rel="manifest" href="manifest.json">
+  <link rel="manifest" id="dynamicManifest" href="manifest.json">
   <link rel="stylesheet" href="style.css" />
 </head>
 
@@ -43,6 +43,7 @@
   </div>
   <script src="flutter_bootstrap.js" async></script>
   <script id="dynamicFaviconScript"></script>
+  <script id="dynamicManifestScript"></script>
 </body>
 
 </html>
