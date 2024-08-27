@@ -1,11 +1,11 @@
 {
-    "name": "Xwappy",
-    "short_name": "Xwappy",
+    "name": "Xwap",
+    "short_name": "Xwap",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Buy & Sell asset in Real-time",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
